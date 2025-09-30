@@ -3,6 +3,7 @@ public class test {
         System.out.println("Hi ini baris kode pertama");
         System.out.println("Ravy menambahkan baris baru");
         System.out.println("Calvin menambahkan baris baru");
+        System.out.println("tes");
     }
     
 }
